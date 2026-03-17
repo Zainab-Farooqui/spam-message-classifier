@@ -36,6 +36,13 @@ A Machine Learning project that classifies messages as **Spam** or **Not Spam (H
 pip install -r requirements.txt
 python -m streamlit run src/app.py
 
-## 📸 Screenshot
+## 📸 Screenshots
 
-![Spam Classifier UI](screenshot.png)
+### 🔹 Main UI
+![Main UI](assets/empty.png)
+
+### 🔹 Spam Detection
+![Spam Example](assets/spam-email.png)
+
+### 🔹 Safe Message Detection
+![Ham Example](assets/ham-email.png)
